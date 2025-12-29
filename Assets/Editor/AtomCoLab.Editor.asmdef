@@ -1,0 +1,20 @@
+{
+    "name": "AtomCoLab.Editor",
+    "rootNamespace": "AtomCoLab.Editor",
+    "references": [
+        "AtomCoLab.Core",
+        "AtomCoLab.FileIO",
+        "AtomCoLab.Visualization"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

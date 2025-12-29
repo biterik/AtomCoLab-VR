@@ -1,0 +1,16 @@
+{
+    "name": "AtomCoLab.Networking",
+    "rootNamespace": "AtomCoLab.Networking",
+    "references": [
+        "AtomCoLab.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

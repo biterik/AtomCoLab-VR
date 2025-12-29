@@ -1,0 +1,16 @@
+{
+    "name": "AtomCoLab.Visualization",
+    "rootNamespace": "AtomCoLab.Visualization",
+    "references": [
+        "AtomCoLab.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

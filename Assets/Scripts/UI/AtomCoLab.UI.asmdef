@@ -1,0 +1,19 @@
+{
+    "name": "AtomCoLab.UI",
+    "rootNamespace": "AtomCoLab.UI",
+    "references": [
+        "AtomCoLab.Core",
+        "AtomCoLab.Visualization",
+        "AtomCoLab.Interaction",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
