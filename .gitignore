@@ -89,3 +89,5 @@ secrets/
 # Test results
 TestResults/
 coverage/
+checkpoint.md
+checkpoint

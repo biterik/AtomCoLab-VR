@@ -1523,7 +1523,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TwoAtomDemo_CreateTwoAtoms_m1A5742DB9630
 		int32_t L_3 = __this->____atomType1;
 		AtomData_tDE59E27E90B331621261A055CC7C7D942797BB77 L_4;
 		memset((&L_4), 0, sizeof(L_4));
-		AtomData__ctor_m5B3858AA5E5B49B4CA513020682064B32EBC652B((&L_4), ((float)(((-L_2))/(2.0f))), (0.0f), (0.0f), L_3, NULL);
+		AtomData__ctor_m5B3858AA5E5B49B4CA513020682064B32EBC652B((&L_4), ((float)(((-L_2))/(2.0f))), (1.5f), (2.0f), L_3, NULL);
 		NullCheck(L_1);
 		(L_1)->SetAt(static_cast<il2cpp_array_size_t>(0), (AtomData_tDE59E27E90B331621261A055CC7C7D942797BB77)L_4);
 		AtomDataU5BU5D_tB7D2583B66F395DAC24E84D477E452EAAD16F509* L_5 = L_1;
@@ -1531,7 +1531,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TwoAtomDemo_CreateTwoAtoms_m1A5742DB9630
 		int32_t L_7 = __this->____atomType2;
 		AtomData_tDE59E27E90B331621261A055CC7C7D942797BB77 L_8;
 		memset((&L_8), 0, sizeof(L_8));
-		AtomData__ctor_m5B3858AA5E5B49B4CA513020682064B32EBC652B((&L_8), ((float)(L_6/(2.0f))), (0.0f), (0.0f), L_7, NULL);
+		AtomData__ctor_m5B3858AA5E5B49B4CA513020682064B32EBC652B((&L_8), ((float)(L_6/(2.0f))), (1.5f), (2.0f), L_7, NULL);
 		NullCheck(L_5);
 		(L_5)->SetAt(static_cast<il2cpp_array_size_t>(1), (AtomData_tDE59E27E90B331621261A055CC7C7D942797BB77)L_8);
 		V_0 = L_5;

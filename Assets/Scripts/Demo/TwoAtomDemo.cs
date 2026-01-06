@@ -43,8 +43,8 @@ namespace AtomCoLab.Demo
             // Create two atoms
             AtomData[] atoms = new AtomData[]
             {
-                new AtomData(-_atomSeparation / 2f, 0f, 0f, _atomType1),
-                new AtomData(_atomSeparation / 2f, 0f, 0f, _atomType2)
+                new AtomData(-_atomSeparation / 2f, 1.5f, 2f, _atomType1),
+                new AtomData(_atomSeparation / 2f, 1.5f, 2f, _atomType2)
             };
 
             // Define atom types (colors and radii)
